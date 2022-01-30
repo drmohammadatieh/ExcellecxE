@@ -24,11 +24,11 @@ index = 0
 counter = 1
 for column in df.columns:
     if "Grade" in column:
-        df.columns.values[index] = 'Test ' + str(counter)
+        df.columns.values[index] = 'Set ' + str(counter)
         counter +=1
     index += 1
 
-df = df.set_index(drop=True)
+
 excel_writer = pd.ExcelWriter(mainPath + '/Summary_merged.xlsx')
 df.to_excel(excel_writer)
 
