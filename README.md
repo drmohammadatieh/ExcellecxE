@@ -14,9 +14,7 @@ Python 3 is needed to run this script. The required packages are listed in the r
 
 The first option is to merge several excel sheets into one. For example, if you have several test results for the same group of students and each exam has its own excel sheet. This is illustrated in the following example. Here there are three tests for the same group of students and we want to merge them in one excel sheet. You just need to place all the test sheets in the **Files for merging** folder and run the **merge.py** script.
 
-<img src ="Images/Test 1.jpg" width = '200'>
-<img src ="Images/Test 2.jpg" width = '200'>
-<img src ="Images/Test 3.jpg" width = '200'>
+<img src ="Images/Test 1.jpg" width = '200'> <img src ="Images/Test 2.jpg" width = '200'> <img src ="Images/Test 3.jpg" width = '200'>
 
 The output will be called **'Summary_merged'** and it will look like this:
 
@@ -24,9 +22,7 @@ The output will be called **'Summary_merged'** and it will look like this:
 
 The second option is to append several excel sheets into one. For example, if you have test results or group activity data spread into several excel sheets. This is illustrated in the following example. Here there are three groups with different students and we want to append all the excel sheets into one. You just need to place all the test sheets in the **Files for appending** folder and run the **append.py** script.
 
-<img src ="Images/Group 1.jpg" width = '200'>
-<img src ="Images/Group 2.jpg" width = '200'>
-<img src ="Images/Group 3.jpg" width = '200'>
+<img src ="Images/Group 1.jpg" width = '200'> <img src ="Images/Group 2.jpg" width = '200'> <img src ="Images/Group 3.jpg" width = '200'>
 
 The output will be called **'Summary_appended'** and it will look like this:
 
