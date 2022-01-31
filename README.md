@@ -1,4 +1,4 @@
-# Excellecxe
+# ExcellecxE
 
 ### About
 
