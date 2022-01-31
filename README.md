@@ -12,7 +12,7 @@ Python 3 is needed to run this script. The required packages are listed in the r
 
 ### Application Instructions
 
-The first option is to **merging**. For example, if you have several test results for the same group of students and each exam has its own excel sheet, this application will help you to merge them into one excel sheet. This is illustrated in the following example. Here there are three tests for the same group of students and we want to merge them in one excel sheet. You just need to place all the test sheets in the **Files for merging** folder and run the **merge.py** script.
+The first option is **merging**. For example, if you have several test results for the same group of students and each exam has its own excel sheet, this application will help you to merge them into one excel sheet. This is illustrated in the following example. Here there are three tests for the same group of students and we want to merge them in one excel sheet. You just need to place all the test sheets in the **Files for merging** folder and run the **merge.py** script.
 
 <img src ="Images/Test 1.jpg" width = '200'> <img src ="Images/Test 2.jpg" width = '200'> <img src ="Images/Test 3.jpg" width = '200'>
 
@@ -20,7 +20,7 @@ The output will be called **'Summary_merged'** and it will look like this:
 
 <img src ="Images/Merged.jpg" width = '200'>
 
-The second option is to **appending**. For example, if you have test results or group activity data spread into several excel sheets, this application will help you to append all of them into one sheet. This is illustrated in the following example. Here there are three groups with different students and we want to append all the excel sheets into one. You just need to place all the test sheets in the **Files for appending** folder and run the **append.py** script.
+The second option is **appending**. For example, if you have test results or group activity data spread into several excel sheets, this application will help you to append all of them into one sheet. This is illustrated in the following example. Here there are three groups with different students and we want to append all the excel sheets into one. You just need to place all the test sheets in the **Files for appending** folder and run the **append.py** script.
 
 <img src ="Images/Group 1.jpg" width = '200'> <img src ="Images/Group 2.jpg" width = '200'> <img src ="Images/Group 3.jpg" width = '200'>
 
